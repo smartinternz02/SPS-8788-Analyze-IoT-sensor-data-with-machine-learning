@@ -5,9 +5,9 @@ most industrial IoT platforms, such as IBM IoT For example, if a sensor detects 
 then the data encountered by the sensor can also be leveraged to draw more insights and perform analytics for future use. In this project, i will build a model for sensor data 
 using Auto AI and build a web application that is integrated to the model built. Any anomaly predicted from the sensor data coming from the IoT platform is displayed on the WebApp.
 Services Used:
-IBM Watson Studio
-IBM Watson Machine Learning
-Node-RED
-IBM Cloud Object Storage
-IBM IoT Platform
+IBM Watson Studio,
+IBM Watson Machine Learning,
+Node-RED,
+IBM Cloud Object Storage,
+IBM IoT Platform.
 nodered url : https://node-red-xeibw-2021-02-08.eu-gb.mybluemix.net/
