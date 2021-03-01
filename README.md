@@ -12,3 +12,4 @@ IBM Cloud Object Storage,
 IBM IoT Platform.
 nodered url : https://node-red-xeibw-2021-02-08.eu-gb.mybluemix.net/
 site url : https://node-red-xeibw-2021-02-08.eu-gb.mybluemix.net/ui/#!/0?socketid=M-zvF0gwnnQ5y7J3AAAc
+Model_deployed_end_point : https://eu-gb.ml.cloud.ibm.com/ml/v4/deployments/da3e40fe-4ca9-4ea8-aee1-50ed47305dfc/predictions?version=2021-03-01
