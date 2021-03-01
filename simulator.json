@@ -1,0 +1,28 @@
+{
+  "deviceTypes": [
+    {
+      "id": "pressurized-water-reactor",
+      "running": true,
+      "events": [
+        {
+          "id": "iotsensor",
+          "frequency": {
+            "repeat": 20,
+            "every": "minute"
+          },
+          "json": "{\n  \"Power_range_sensor_1\": random(0.0403, 16.3568),\n  \"Power_range_sensor_2\": random(0.0403, 16.3568),\n  \"Power_range_sensor_3\": random(0.0403, 16.3568),\n  \"Power_range_sensor_4\": random(0.0403, 16.3568),\n  \"Pressure_sensor_1\": random(0.0058, 65.4305),\n  \"Pressure_sensor_2\": random(0.0058, 9.2293),\n  \"Pressure_sensor_3\": random(0.0058, 12.6475),\n  \"Pressure_sensor_4\": random(0.0058, 15.1085),\n  \"Vibration_sensor_1\": random(0.0092, 53.2384),\n  \"Vibration_sensor_2\": random(0.0092, 53.2384),\n  \"Vibration_sensor_3\": random(0.0092, 53.2384),\n  \"Vibration_sensor_4\": random(0.0092, 53.2384)\n}\n"
+        }
+      ],
+      "devices": [
+        {
+          "id": "0001",
+          "generated": false
+        }
+      ],
+      "managed": {
+        "enabled": false
+      }
+    }
+  ],
+  "APIKey": "a-kj4e5g-hxwtt7efhw"
+}
