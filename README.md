@@ -11,3 +11,4 @@ Node-RED,
 IBM Cloud Object Storage,
 IBM IoT Platform.
 nodered url : https://node-red-xeibw-2021-02-08.eu-gb.mybluemix.net/
+site url : https://node-red-xeibw-2021-02-08.eu-gb.mybluemix.net/ui/#!/0?socketid=M-zvF0gwnnQ5y7J3AAAc
